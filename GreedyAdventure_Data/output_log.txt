@@ -1,0 +1,2005 @@
+Initialize engine version: 5.2.1f1 (44735ea161b3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Mobility Radeon HD 5000 Series (ID=0x68c1)
+    Vendor:   ATI
+    VRAM:     1014 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\ludumdare\Unity-Tests\PuzzleGame\GreedyAdventure_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\ludumdare\Unity-Tests\PuzzleGame\GreedyAdventure_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\ludumdare\Unity-Tests\PuzzleGame\GreedyAdventure_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\ludumdare\Unity-Tests\PuzzleGame\GreedyAdventure_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\ludumdare\Unity-Tests\PuzzleGame\GreedyAdventure_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\ludumdare\Unity-Tests\PuzzleGame\GreedyAdventure_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\ludumdare\Unity-Tests\PuzzleGame\GreedyAdventure_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\ludumdare\Unity-Tests\PuzzleGame\GreedyAdventure_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\ludumdare\Unity-Tests\PuzzleGame\GreedyAdventure_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.074 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: D:\ludumdare\Unity-Tests\PuzzleGame\GreedyAdventure_Data\Managed\System.dll (this message is harmless)
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1534 -> priority: 1 
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 9.898102 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 183.
+Total: 0.360054 ms (FindLiveObjects: 0.026268 ms CreateObjectMapping: 0.023550 ms MarkObjects: 0.293931 ms  DeleteObjects: 0.015851 ms)
+
+textCounter:0, currentText: 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:1, currentText: S
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:2, currentText: So
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:3, currentText: Som
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:4, currentText: Some
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:5, currentText: Somet
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:6, currentText: Someti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:7, currentText: Sometim
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:8, currentText: Sometime
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:9, currentText: Sometimes
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:10, currentText: Sometimes 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:11, currentText: Sometimes i
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:12, currentText: Sometimes in
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:13, currentText: Sometimes in 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:14, currentText: Sometimes in y
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:15, currentText: Sometimes in yo
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:16, currentText: Sometimes in you
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:17, currentText: Sometimes in your
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:18, currentText: Sometimes in your 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:19, currentText: Sometimes in your l
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:20, currentText: Sometimes in your li
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:21, currentText: Sometimes in your lif
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:22, currentText: Sometimes in your life
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:23, currentText: Sometimes in your life,
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:24, currentText: Sometimes in your life, 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:25, currentText: Sometimes in your life, t
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:26, currentText: Sometimes in your life, th
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:27, currentText: Sometimes in your life, the
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:28, currentText: Sometimes in your life, ther
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:29, currentText: Sometimes in your life, there
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:30, currentText: Sometimes in your life, there'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:31, currentText: Sometimes in your life, there's
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:32, currentText: Sometimes in your life, there's 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:33, currentText: Sometimes in your life, there's a
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:34, currentText: Sometimes in your life, there's a 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:35, currentText: Sometimes in your life, there's a m
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:36, currentText: Sometimes in your life, there's a mo
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:37, currentText: Sometimes in your life, there's a mom
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:38, currentText: Sometimes in your life, there's a mome
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:39, currentText: Sometimes in your life, there's a momen
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:40, currentText: Sometimes in your life, there's a moment
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:41, currentText: Sometimes in your life, there's a moment 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:42, currentText: Sometimes in your life, there's a moment w
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:43, currentText: Sometimes in your life, there's a moment wh
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:44, currentText: Sometimes in your life, there's a moment whe
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:45, currentText: Sometimes in your life, there's a moment wher
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:46, currentText: Sometimes in your life, there's a moment where
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:47, currentText: Sometimes in your life, there's a moment where 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:48, currentText: Sometimes in your life, there's a moment where y
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:49, currentText: Sometimes in your life, there's a moment where yo
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:50, currentText: Sometimes in your life, there's a moment where you
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:51, currentText: Sometimes in your life, there's a moment where you 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:52, currentText: Sometimes in your life, there's a moment where you h
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:53, currentText: Sometimes in your life, there's a moment where you ha
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:54, currentText: Sometimes in your life, there's a moment where you hav
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:55, currentText: Sometimes in your life, there's a moment where you have
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:56, currentText: Sometimes in your life, there's a moment where you have 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:57, currentText: Sometimes in your life, there's a moment where you have t
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:58, currentText: Sometimes in your life, there's a moment where you have to
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:59, currentText: Sometimes in your life, there's a moment where you have to 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:60, currentText: Sometimes in your life, there's a moment where you have to w
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:61, currentText: Sometimes in your life, there's a moment where you have to wo
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:62, currentText: Sometimes in your life, there's a moment where you have to wor
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:63, currentText: Sometimes in your life, there's a moment where you have to work
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:64, currentText: Sometimes in your life, there's a moment where you have to work 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:65, currentText: Sometimes in your life, there's a moment where you have to work a
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:66, currentText: Sometimes in your life, there's a moment where you have to work an
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:67, currentText: Sometimes in your life, there's a moment where you have to work and
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:68, currentText: Sometimes in your life, there's a moment where you have to work and 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:69, currentText: Sometimes in your life, there's a moment where you have to work and p
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:70, currentText: Sometimes in your life, there's a moment where you have to work and pa
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:71, currentText: Sometimes in your life, there's a moment where you have to work and pay
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:72, currentText: Sometimes in your life, there's a moment where you have to work and pay 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:73, currentText: Sometimes in your life, there's a moment where you have to work and pay b
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:74, currentText: Sometimes in your life, there's a moment where you have to work and pay bi
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:75, currentText: Sometimes in your life, there's a moment where you have to work and pay bil
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:76, currentText: Sometimes in your life, there's a moment where you have to work and pay bill
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:77, currentText: Sometimes in your life, there's a moment where you have to work and pay bills
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:78, currentText: Sometimes in your life, there's a moment where you have to work and pay bills.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:79, currentText: Sometimes in your life, there's a moment where you have to work and pay bills. 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:80, currentText: Sometimes in your life, there's a moment where you have to work and pay bills. F
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:81, currentText: Sometimes in your life, there's a moment where you have to work and pay bills. Fu
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.553442 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 205.
+Total: 0.329257 ms (FindLiveObjects: 0.026268 ms CreateObjectMapping: 0.026721 ms MarkObjects: 0.262681 ms  DeleteObjects: 0.012228 ms)
+
+textCounter:0, currentText: 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:1, currentText: A
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:2, currentText: As
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:3, currentText: As 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:4, currentText: As I
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:5, currentText: As I 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:6, currentText: As I w
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:7, currentText: As I wa
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:8, currentText: As I wal
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:9, currentText: As I walk
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:10, currentText: As I walke
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:11, currentText: As I walked
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:12, currentText: As I walked 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:13, currentText: As I walked t
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:14, currentText: As I walked th
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:15, currentText: As I walked the
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:16, currentText: As I walked the 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:17, currentText: As I walked the o
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:18, currentText: As I walked the ol
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:19, currentText: As I walked the old
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:20, currentText: As I walked the old 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:21, currentText: As I walked the old t
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:22, currentText: As I walked the old tu
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:23, currentText: As I walked the old tun
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:24, currentText: As I walked the old tunn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:25, currentText: As I walked the old tunne
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:26, currentText: As I walked the old tunnel
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:27, currentText: As I walked the old tunnels
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:28, currentText: As I walked the old tunnels,
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:29, currentText: As I walked the old tunnels, 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:30, currentText: As I walked the old tunnels, I
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:31, currentText: As I walked the old tunnels, I 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:32, currentText: As I walked the old tunnels, I s
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:33, currentText: As I walked the old tunnels, I st
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:34, currentText: As I walked the old tunnels, I stu
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:35, currentText: As I walked the old tunnels, I stum
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:36, currentText: As I walked the old tunnels, I stumb
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:37, currentText: As I walked the old tunnels, I stumbl
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:38, currentText: As I walked the old tunnels, I stumble
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:39, currentText: As I walked the old tunnels, I stumbled
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:40, currentText: As I walked the old tunnels, I stumbled 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:41, currentText: As I walked the old tunnels, I stumbled o
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:42, currentText: As I walked the old tunnels, I stumbled on
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:43, currentText: As I walked the old tunnels, I stumbled on 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:44, currentText: As I walked the old tunnels, I stumbled on a
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:45, currentText: As I walked the old tunnels, I stumbled on a 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:46, currentText: As I walked the old tunnels, I stumbled on a l
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:47, currentText: As I walked the old tunnels, I stumbled on a la
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:48, currentText: As I walked the old tunnels, I stumbled on a lar
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:49, currentText: As I walked the old tunnels, I stumbled on a larg
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:50, currentText: As I walked the old tunnels, I stumbled on a large
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:51, currentText: As I walked the old tunnels, I stumbled on a large 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:52, currentText: As I walked the old tunnels, I stumbled on a large s
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:53, currentText: As I walked the old tunnels, I stumbled on a large st
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:54, currentText: As I walked the old tunnels, I stumbled on a large sto
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:55, currentText: As I walked the old tunnels, I stumbled on a large ston
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:56, currentText: As I walked the old tunnels, I stumbled on a large stone
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:57, currentText: As I walked the old tunnels, I stumbled on a large stone 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:58, currentText: As I walked the old tunnels, I stumbled on a large stone w
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:59, currentText: As I walked the old tunnels, I stumbled on a large stone wa
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:60, currentText: As I walked the old tunnels, I stumbled on a large stone wal
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:61, currentText: As I walked the old tunnels, I stumbled on a large stone wall
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:62, currentText: As I walked the old tunnels, I stumbled on a large stone wall.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:63, currentText: As I walked the old tunnels, I stumbled on a large stone wall. 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:64, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:65, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:66, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I c
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:67, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I ca
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:68, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:69, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:70, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can f
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:71, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can fe
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:72, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can fee
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:73, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can feel
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:74, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can feel 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:75, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can feel t
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:76, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can feel th
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:77, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can feel the
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:78, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can feel the 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:79, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can feel the w
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:80, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can feel the wi
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:81, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can feel the win
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:82, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can feel the wind
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:83, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can feel the wind 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:84, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can feel the wind p
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:85, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can feel the wind pa
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:86, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can feel the wind pas
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:87, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can feel the wind pass
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:88, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can feel the wind passi
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:89, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can feel the wind passin
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:90, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can feel the wind passing
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:91, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can feel the wind passing 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:92, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can feel the wind passing b
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:93, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can feel the wind passing by
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:94, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can feel the wind passing by.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:95, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can feel the wind passing by. 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:96, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can feel the wind passing by. T
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:97, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can feel the wind passing by. Th
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:98, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can feel the wind passing by. Thi
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:99, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can feel the wind passing by. This
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:100, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can feel the wind passing by. This 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:101, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can feel the wind passing by. This m
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:102, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can feel the wind passing by. This mu
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:103, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can feel the wind passing by. This mus
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:104, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can feel the wind passing by. This must
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:105, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can feel the wind passing by. This must 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:106, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can feel the wind passing by. This must b
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:107, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can feel the wind passing by. This must be
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:108, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can feel the wind passing by. This must be 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:109, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can feel the wind passing by. This must be s
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:110, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can feel the wind passing by. This must be so
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:111, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can feel the wind passing by. This must be som
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:112, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can feel the wind passing by. This must be some
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:113, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can feel the wind passing by. This must be somet
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:114, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can feel the wind passing by. This must be someth
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:115, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can feel the wind passing by. This must be somethi
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:116, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can feel the wind passing by. This must be somethin
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:117, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can feel the wind passing by. This must be something
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:118, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can feel the wind passing by. This must be something 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:119, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can feel the wind passing by. This must be something l
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:120, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can feel the wind passing by. This must be something li
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:121, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can feel the wind passing by. This must be something lik
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:122, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can feel the wind passing by. This must be something like
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:123, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can feel the wind passing by. This must be something like 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:124, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can feel the wind passing by. This must be something like a
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:125, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can feel the wind passing by. This must be something like a 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:126, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can feel the wind passing by. This must be something like a h
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:127, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can feel the wind passing by. This must be something like a hi
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:128, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can feel the wind passing by. This must be something like a hid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:129, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can feel the wind passing by. This must be something like a hidd
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:130, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can feel the wind passing by. This must be something like a hidde
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:131, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can feel the wind passing by. This must be something like a hidden
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:132, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can feel the wind passing by. This must be something like a hidden 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:133, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can feel the wind passing by. This must be something like a hidden d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:134, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can feel the wind passing by. This must be something like a hidden do
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:135, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can feel the wind passing by. This must be something like a hidden doo
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:136, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can feel the wind passing by. This must be something like a hidden door
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:137, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can feel the wind passing by. This must be something like a hidden door 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:138, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can feel the wind passing by. This must be something like a hidden door b
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:139, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can feel the wind passing by. This must be something like a hidden door be
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:140, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can feel the wind passing by. This must be something like a hidden door bec
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:141, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can feel the wind passing by. This must be something like a hidden door beca
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:142, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can feel the wind passing by. This must be something like a hidden door becau
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:143, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can feel the wind passing by. This must be something like a hidden door becaus
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:144, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can feel the wind passing by. This must be something like a hidden door because
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:145, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can feel the wind passing by. This must be something like a hidden door because 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:146, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can feel the wind passing by. This must be something like a hidden door because I
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:147, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can feel the wind passing by. This must be something like a hidden door because I 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:148, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can feel the wind passing by. This must be something like a hidden door because I c
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:149, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can feel the wind passing by. This must be something like a hidden door because I ca
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:150, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can feel the wind passing by. This must be something like a hidden door because I can
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:151, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can feel the wind passing by. This must be something like a hidden door because I can 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:152, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can feel the wind passing by. This must be something like a hidden door because I can s
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:153, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can feel the wind passing by. This must be something like a hidden door because I can se
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:154, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can feel the wind passing by. This must be something like a hidden door because I can see
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:155, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can feel the wind passing by. This must be something like a hidden door because I can see 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:156, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can feel the wind passing by. This must be something like a hidden door because I can see s
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:157, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can feel the wind passing by. This must be something like a hidden door because I can see so
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:158, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can feel the wind passing by. This must be something like a hidden door because I can see som
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:159, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can feel the wind passing by. This must be something like a hidden door because I can see some
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:160, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can feel the wind passing by. This must be something like a hidden door because I can see some 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:161, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can feel the wind passing by. This must be something like a hidden door because I can see some t
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:162, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can feel the wind passing by. This must be something like a hidden door because I can see some ti
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:163, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can feel the wind passing by. This must be something like a hidden door because I can see some tin
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:164, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can feel the wind passing by. This must be something like a hidden door because I can see some tiny
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:165, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can feel the wind passing by. This must be something like a hidden door because I can see some tiny 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:166, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can feel the wind passing by. This must be something like a hidden door because I can see some tiny g
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:167, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can feel the wind passing by. This must be something like a hidden door because I can see some tiny ga
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:168, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can feel the wind passing by. This must be something like a hidden door because I can see some tiny gap
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:169, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can feel the wind passing by. This must be something like a hidden door because I can see some tiny gaps
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:170, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can feel the wind passing by. This must be something like a hidden door because I can see some tiny gaps 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:171, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can feel the wind passing by. This must be something like a hidden door because I can see some tiny gaps b
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:172, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can feel the wind passing by. This must be something like a hidden door because I can see some tiny gaps be
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:173, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can feel the wind passing by. This must be something like a hidden door because I can see some tiny gaps bet
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:174, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can feel the wind passing by. This must be something like a hidden door because I can see some tiny gaps betw
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:175, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can feel the wind passing by. This must be something like a hidden door because I can see some tiny gaps betwe
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:176, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can feel the wind passing by. This must be something like a hidden door because I can see some tiny gaps betwee
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:177, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can feel the wind passing by. This must be something like a hidden door because I can see some tiny gaps between
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:178, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can feel the wind passing by. This must be something like a hidden door because I can see some tiny gaps between 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:179, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can feel the wind passing by. This must be something like a hidden door because I can see some tiny gaps between t
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:180, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can feel the wind passing by. This must be something like a hidden door because I can see some tiny gaps between th
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:181, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can feel the wind passing by. This must be something like a hidden door because I can see some tiny gaps between the
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:182, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can feel the wind passing by. This must be something like a hidden door because I can see some tiny gaps between the 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:183, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can feel the wind passing by. This must be something like a hidden door because I can see some tiny gaps between the f
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:184, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can feel the wind passing by. This must be something like a hidden door because I can see some tiny gaps between the fl
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:185, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can feel the wind passing by. This must be something like a hidden door because I can see some tiny gaps between the flo
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:186, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can feel the wind passing by. This must be something like a hidden door because I can see some tiny gaps between the floo
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:187, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can feel the wind passing by. This must be something like a hidden door because I can see some tiny gaps between the floor
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:188, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can feel the wind passing by. This must be something like a hidden door because I can see some tiny gaps between the floor 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:189, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can feel the wind passing by. This must be something like a hidden door because I can see some tiny gaps between the floor a
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:190, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can feel the wind passing by. This must be something like a hidden door because I can see some tiny gaps between the floor an
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:191, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can feel the wind passing by. This must be something like a hidden door because I can see some tiny gaps between the floor and
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:192, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can feel the wind passing by. This must be something like a hidden door because I can see some tiny gaps between the floor and 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:193, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can feel the wind passing by. This must be something like a hidden door because I can see some tiny gaps between the floor and t
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:194, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can feel the wind passing by. This must be something like a hidden door because I can see some tiny gaps between the floor and th
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:195, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can feel the wind passing by. This must be something like a hidden door because I can see some tiny gaps between the floor and the
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:196, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can feel the wind passing by. This must be something like a hidden door because I can see some tiny gaps between the floor and the 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:197, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can feel the wind passing by. This must be something like a hidden door because I can see some tiny gaps between the floor and the w
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:198, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can feel the wind passing by. This must be something like a hidden door because I can see some tiny gaps between the floor and the wa
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:199, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can feel the wind passing by. This must be something like a hidden door because I can see some tiny gaps between the floor and the wal
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:200, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can feel the wind passing by. This must be something like a hidden door because I can see some tiny gaps between the floor and the wall
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:201, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can feel the wind passing by. This must be something like a hidden door because I can see some tiny gaps between the floor and the wall.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:202, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can feel the wind passing by. This must be something like a hidden door because I can see some tiny gaps between the floor and the wall. 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:203, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can feel the wind passing by. This must be something like a hidden door because I can see some tiny gaps between the floor and the wall. Y
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:204, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can feel the wind passing by. This must be something like a hidden door because I can see some tiny gaps between the floor and the wall. Ye
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:205, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can feel the wind passing by. This must be something like a hidden door because I can see some tiny gaps between the floor and the wall. Yes
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:206, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can feel the wind passing by. This must be something like a hidden door because I can see some tiny gaps between the floor and the wall. Yes,
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:207, currentText: As I walked the old tunnels, I stumbled on a large stone wall. I can feel the wind passing by. This must be something like a hidden door because I can see some tiny gaps between the floor and the wall. Yes, 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.643117 ms
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 210.
+Total: 0.413496 ms (FindLiveObjects: 0.035779 ms CreateObjectMapping: 0.024909 ms MarkObjects: 0.322011 ms  DeleteObjects: 0.029891 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.311594 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 210.
+Total: 0.355072 ms (FindLiveObjects: 0.024003 ms CreateObjectMapping: 0.025362 ms MarkObjects: 0.299366 ms  DeleteObjects: 0.004981 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.841032 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 210.
+Total: 0.490036 ms (FindLiveObjects: 0.023550 ms CreateObjectMapping: 0.025362 ms MarkObjects: 0.432065 ms  DeleteObjects: 0.007699 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.734601 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 210.
+Total: 0.610960 ms (FindLiveObjects: 0.032608 ms CreateObjectMapping: 0.033061 ms MarkObjects: 0.534873 ms  DeleteObjects: 0.009510 ms)
+
+textCounter:0, currentText: 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:1, currentText: I
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:2, currentText: I 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:3, currentText: I h
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:4, currentText: I ho
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:5, currentText: I hop
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:6, currentText: I hope
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:7, currentText: I hope 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:8, currentText: I hope t
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:9, currentText: I hope th
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:10, currentText: I hope thi
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:11, currentText: I hope this
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:12, currentText: I hope this 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:13, currentText: I hope this w
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:14, currentText: I hope this wa
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:15, currentText: I hope this was
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:16, currentText: I hope this was 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:17, currentText: I hope this was t
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:18, currentText: I hope this was th
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:19, currentText: I hope this was the
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:20, currentText: I hope this was the 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:21, currentText: I hope this was the r
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:22, currentText: I hope this was the ri
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:23, currentText: I hope this was the rig
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:24, currentText: I hope this was the righ
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:25, currentText: I hope this was the right
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:26, currentText: I hope this was the right 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:27, currentText: I hope this was the right a
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:28, currentText: I hope this was the right an
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:29, currentText: I hope this was the right ans
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:30, currentText: I hope this was the right answ
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:31, currentText: I hope this was the right answe
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:32, currentText: I hope this was the right answer
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:33, currentText: I hope this was the right answer.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:34, currentText: I hope this was the right answer..
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:35, currentText: I hope this was the right answer...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:36, currentText: I hope this was the right answer....
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:37, currentText: I hope this was the right answer.....
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:38, currentText: I hope this was the right answer......
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:39, currentText: I hope this was the right answer.......
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:40, currentText: I hope this was the right answer....... 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:41, currentText: I hope this was the right answer....... A
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:42, currentText: I hope this was the right answer....... As
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:43, currentText: I hope this was the right answer....... As 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:44, currentText: I hope this was the right answer....... As I
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:45, currentText: I hope this was the right answer....... As I 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:46, currentText: I hope this was the right answer....... As I w
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:47, currentText: I hope this was the right answer....... As I wa
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:48, currentText: I hope this was the right answer....... As I wal
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:49, currentText: I hope this was the right answer....... As I walk
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:50, currentText: I hope this was the right answer....... As I walke
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:51, currentText: I hope this was the right answer....... As I walked
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:52, currentText: I hope this was the right answer....... As I walked 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:53, currentText: I hope this was the right answer....... As I walked t
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:54, currentText: I hope this was the right answer....... As I walked th
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:55, currentText: I hope this was the right answer....... As I walked the
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:56, currentText: I hope this was the right answer....... As I walked the 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:57, currentText: I hope this was the right answer....... As I walked the n
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:58, currentText: I hope this was the right answer....... As I walked the ne
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:59, currentText: I hope this was the right answer....... As I walked the new
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:60, currentText: I hope this was the right answer....... As I walked the newl
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:61, currentText: I hope this was the right answer....... As I walked the newly
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:62, currentText: I hope this was the right answer....... As I walked the newly 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:63, currentText: I hope this was the right answer....... As I walked the newly o
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:64, currentText: I hope this was the right answer....... As I walked the newly op
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:65, currentText: I hope this was the right answer....... As I walked the newly ope
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:66, currentText: I hope this was the right answer....... As I walked the newly open
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:67, currentText: I hope this was the right answer....... As I walked the newly open 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:68, currentText: I hope this was the right answer....... As I walked the newly open c
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:69, currentText: I hope this was the right answer....... As I walked the newly open co
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:70, currentText: I hope this was the right answer....... As I walked the newly open cor
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:71, currentText: I hope this was the right answer....... As I walked the newly open corr
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:72, currentText: I hope this was the right answer....... As I walked the newly open corri
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:73, currentText: I hope this was the right answer....... As I walked the newly open corrid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:74, currentText: I hope this was the right answer....... As I walked the newly open corrido
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:75, currentText: I hope this was the right answer....... As I walked the newly open corridor
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:76, currentText: I hope this was the right answer....... As I walked the newly open corridor,
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:77, currentText: I hope this was the right answer....... As I walked the newly open corridor, 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:78, currentText: I hope this was the right answer....... As I walked the newly open corridor, s
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:79, currentText: I hope this was the right answer....... As I walked the newly open corridor, su
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:80, currentText: I hope this was the right answer....... As I walked the newly open corridor, sud
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:81, currentText: I hope this was the right answer....... As I walked the newly open corridor, sudd
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:82, currentText: I hope this was the right answer....... As I walked the newly open corridor, sudde
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:83, currentText: I hope this was the right answer....... As I walked the newly open corridor, sudden
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:84, currentText: I hope this was the right answer....... As I walked the newly open corridor, suddenl
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:85, currentText: I hope this was the right answer....... As I walked the newly open corridor, suddenly
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:86, currentText: I hope this was the right answer....... As I walked the newly open corridor, suddenly 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:87, currentText: I hope this was the right answer....... As I walked the newly open corridor, suddenly t
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:88, currentText: I hope this was the right answer....... As I walked the newly open corridor, suddenly th
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:89, currentText: I hope this was the right answer....... As I walked the newly open corridor, suddenly the
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:90, currentText: I hope this was the right answer....... As I walked the newly open corridor, suddenly the 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:91, currentText: I hope this was the right answer....... As I walked the newly open corridor, suddenly the d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:92, currentText: I hope this was the right answer....... As I walked the newly open corridor, suddenly the do
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:93, currentText: I hope this was the right answer....... As I walked the newly open corridor, suddenly the doo
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:94, currentText: I hope this was the right answer....... As I walked the newly open corridor, suddenly the door
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:95, currentText: I hope this was the right answer....... As I walked the newly open corridor, suddenly the door 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:96, currentText: I hope this was the right answer....... As I walked the newly open corridor, suddenly the door b
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:97, currentText: I hope this was the right answer....... As I walked the newly open corridor, suddenly the door be
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:98, currentText: I hope this was the right answer....... As I walked the newly open corridor, suddenly the door beh
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:99, currentText: I hope this was the right answer....... As I walked the newly open corridor, suddenly the door behi
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:100, currentText: I hope this was the right answer....... As I walked the newly open corridor, suddenly the door behin
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:101, currentText: I hope this was the right answer....... As I walked the newly open corridor, suddenly the door behind
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:102, currentText: I hope this was the right answer....... As I walked the newly open corridor, suddenly the door behind 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:103, currentText: I hope this was the right answer....... As I walked the newly open corridor, suddenly the door behind m
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:104, currentText: I hope this was the right answer....... As I walked the newly open corridor, suddenly the door behind me
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:105, currentText: I hope this was the right answer....... As I walked the newly open corridor, suddenly the door behind me 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:106, currentText: I hope this was the right answer....... As I walked the newly open corridor, suddenly the door behind me c
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:107, currentText: I hope this was the right answer....... As I walked the newly open corridor, suddenly the door behind me cl
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:108, currentText: I hope this was the right answer....... As I walked the newly open corridor, suddenly the door behind me clo
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:109, currentText: I hope this was the right answer....... As I walked the newly open corridor, suddenly the door behind me clos
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:110, currentText: I hope this was the right answer....... As I walked the newly open corridor, suddenly the door behind me close
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:111, currentText: I hope this was the right answer....... As I walked the newly open corridor, suddenly the door behind me closed
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:112, currentText: I hope this was the right answer....... As I walked the newly open corridor, suddenly the door behind me closed.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:113, currentText: I hope this was the right answer....... As I walked the newly open corridor, suddenly the door behind me closed. 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:114, currentText: I hope this was the right answer....... As I walked the newly open corridor, suddenly the door behind me closed. D
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:115, currentText: I hope this was the right answer....... As I walked the newly open corridor, suddenly the door behind me closed. Da
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:116, currentText: I hope this was the right answer....... As I walked the newly open corridor, suddenly the door behind me closed. Dam
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:117, currentText: I hope this was the right answer....... As I walked the newly open corridor, suddenly the door behind me closed. Damn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:118, currentText: I hope this was the right answer....... As I walked the newly open corridor, suddenly the door behind me closed. Damn,
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:119, currentText: I hope this was the right answer....... As I walked the newly open corridor, suddenly the door behind me closed. Damn, 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:120, currentText: I hope this was the right answer....... As I walked the newly open corridor, suddenly the door behind me closed. Damn, I
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:121, currentText: I hope this was the right answer....... As I walked the newly open corridor, suddenly the door behind me closed. Damn, I 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:122, currentText: I hope this was the right answer....... As I walked the newly open corridor, suddenly the door behind me closed. Damn, I t
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:123, currentText: I hope this was the right answer....... As I walked the newly open corridor, suddenly the door behind me closed. Damn, I th
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:124, currentText: I hope this was the right answer....... As I walked the newly open corridor, suddenly the door behind me closed. Damn, I thi
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:125, currentText: I hope this was the right answer....... As I walked the newly open corridor, suddenly the door behind me closed. Damn, I thin
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:126, currentText: I hope this was the right answer....... As I walked the newly open corridor, suddenly the door behind me closed. Damn, I think
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:127, currentText: I hope this was the right answer....... As I walked the newly open corridor, suddenly the door behind me closed. Damn, I think 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:128, currentText: I hope this was the right answer....... As I walked the newly open corridor, suddenly the door behind me closed. Damn, I think I
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:129, currentText: I hope this was the right answer....... As I walked the newly open corridor, suddenly the door behind me closed. Damn, I think I'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:130, currentText: I hope this was the right answer....... As I walked the newly open corridor, suddenly the door behind me closed. Damn, I think I'm
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:131, currentText: I hope this was the right answer....... As I walked the newly open corridor, suddenly the door behind me closed. Damn, I think I'm 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:132, currentText: I hope this was the right answer....... As I walked the newly open corridor, suddenly the door behind me closed. Damn, I think I'm t
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:133, currentText: I hope this was the right answer....... As I walked the newly open corridor, suddenly the door behind me closed. Damn, I think I'm tr
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:134, currentText: I hope this was the right answer....... As I walked the newly open corridor, suddenly the door behind me closed. Damn, I think I'm tra
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:135, currentText: I hope this was the right answer....... As I walked the newly open corridor, suddenly the door behind me closed. Damn, I think I'm trap
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:136, currentText: I hope this was the right answer....... As I walked the newly open corridor, suddenly the door behind me closed. Damn, I think I'm trapp
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:137, currentText: I hope this was the right answer....... As I walked the newly open corridor, suddenly the door behind me closed. Damn, I think I'm trappe
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:138, currentText: I hope this was the right answer....... As I walked the newly open corridor, suddenly the door behind me closed. Damn, I think I'm trapped
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:139, currentText: I hope this was the right answer....... As I walked the newly open corridor, suddenly the door behind me closed. Damn, I think I'm trapped 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:140, currentText: I hope this was the right answer....... As I walked the newly open corridor, suddenly the door behind me closed. Damn, I think I'm trapped i
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:141, currentText: I hope this was the right answer....... As I walked the newly open corridor, suddenly the door behind me closed. Damn, I think I'm trapped in
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:142, currentText: I hope this was the right answer....... As I walked the newly open corridor, suddenly the door behind me closed. Damn, I think I'm trapped in 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:143, currentText: I hope this was the right answer....... As I walked the newly open corridor, suddenly the door behind me closed. Damn, I think I'm trapped in t
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:144, currentText: I hope this was the right answer....... As I walked the newly open corridor, suddenly the door behind me closed. Damn, I think I'm trapped in th
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:145, currentText: I hope this was the right answer....... As I walked the newly open corridor, suddenly the door behind me closed. Damn, I think I'm trapped in thi
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:146, currentText: I hope this was the right answer....... As I walked the newly open corridor, suddenly the door behind me closed. Damn, I think I'm trapped in this
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:147, currentText: I hope this was the right answer....... As I walked the newly open corridor, suddenly the door behind me closed. Damn, I think I'm trapped in this 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:148, currentText: I hope this was the right answer....... As I walked the newly open corridor, suddenly the door behind me closed. Damn, I think I'm trapped in this r
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:149, currentText: I hope this was the right answer....... As I walked the newly open corridor, suddenly the door behind me closed. Damn, I think I'm trapped in this ro
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:150, currentText: I hope this was the right answer....... As I walked the newly open corridor, suddenly the door behind me closed. Damn, I think I'm trapped in this roo
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:151, currentText: I hope this was the right answer....... As I walked the newly open corridor, suddenly the door behind me closed. Damn, I think I'm trapped in this room
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:152, currentText: I hope this was the right answer....... As I walked the newly open corridor, suddenly the door behind me closed. Damn, I think I'm trapped in this room.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:153, currentText: I hope this was the right answer....... As I walked the newly open corridor, suddenly the door behind me closed. Damn, I think I'm trapped in this room. 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:154, currentText: I hope this was the right answer....... As I walked the newly open corridor, suddenly the door behind me closed. Damn, I think I'm trapped in this room. M
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:155, currentText: I hope this was the right answer....... As I walked the newly open corridor, suddenly the door behind me closed. Damn, I think I'm trapped in this room. My
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:156, currentText: I hope this was the right answer....... As I walked the newly open corridor, suddenly the door behind me closed. Damn, I think I'm trapped in this room. My 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:157, currentText: I hope this was the right answer....... As I walked the newly open corridor, suddenly the door behind me closed. Damn, I think I'm trapped in this room. My t
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:158, currentText: I hope this was the right answer....... As I walked the newly open corridor, suddenly the door behind me closed. Damn, I think I'm trapped in this room. My to
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:159, currentText: I hope this was the right answer....... As I walked the newly open corridor, suddenly the door behind me closed. Damn, I think I'm trapped in this room. My tor
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:160, currentText: I hope this was the right answer....... As I walked the newly open corridor, suddenly the door behind me closed. Damn, I think I'm trapped in this room. My torc
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:161, currentText: I hope this was the right answer....... As I walked the newly open corridor, suddenly the door behind me closed. Damn, I think I'm trapped in this room. My torch
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:162, currentText: I hope this was the right answer....... As I walked the newly open corridor, suddenly the door behind me closed. Damn, I think I'm trapped in this room. My torch 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:163, currentText: I hope this was the right answer....... As I walked the newly open corridor, suddenly the door behind me closed. Damn, I think I'm trapped in this room. My torch w
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:164, currentText: I hope this was the right answer....... As I walked the newly open corridor, suddenly the door behind me closed. Damn, I think I'm trapped in this room. My torch wi
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:165, currentText: I hope this was the right answer....... As I walked the newly open corridor, suddenly the door behind me closed. Damn, I think I'm trapped in this room. My torch wil
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:166, currentText: I hope this was the right answer....... As I walked the newly open corridor, suddenly the door behind me closed. Damn, I think I'm trapped in this room. My torch will
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:167, currentText: I hope this was the right answer....... As I walked the newly open corridor, suddenly the door behind me closed. Damn, I think I'm trapped in this room. My torch will 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:168, currentText: I hope this was the right answer....... As I walked the newly open corridor, suddenly the door behind me closed. Damn, I think I'm trapped in this room. My torch will s
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:169, currentText: I hope this was the right answer....... As I walked the newly open corridor, suddenly the door behind me closed. Damn, I think I'm trapped in this room. My torch will so
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:170, currentText: I hope this was the right answer....... As I walked the newly open corridor, suddenly the door behind me closed. Damn, I think I'm trapped in this room. My torch will soo
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:171, currentText: I hope this was the right answer....... As I walked the newly open corridor, suddenly the door behind me closed. Damn, I think I'm trapped in this room. My torch will soon
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:172, currentText: I hope this was the right answer....... As I walked the newly open corridor, suddenly the door behind me closed. Damn, I think I'm trapped in this room. My torch will soon 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:173, currentText: I hope this was the right answer....... As I walked the newly open corridor, suddenly the door behind me closed. Damn, I think I'm trapped in this room. My torch will soon g
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:174, currentText: I hope this was the right answer....... As I walked the newly open corridor, suddenly the door behind me closed. Damn, I think I'm trapped in this room. My torch will soon go
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:175, currentText: I hope this was the right answer....... As I walked the newly open corridor, suddenly the door behind me closed. Damn, I think I'm trapped in this room. My torch will soon go 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:176, currentText: I hope this was the right answer....... As I walked the newly open corridor, suddenly the door behind me closed. Damn, I think I'm trapped in this room. My torch will soon go o
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:177, currentText: I hope this was the right answer....... As I walked the newly open corridor, suddenly the door behind me closed. Damn, I think I'm trapped in this room. My torch will soon go ou
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:178, currentText: I hope this was the right answer....... As I walked the newly open corridor, suddenly the door behind me closed. Damn, I think I'm trapped in this room. My torch will soon go out
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:179, currentText: I hope this was the right answer....... As I walked the newly open corridor, suddenly the door behind me closed. Damn, I think I'm trapped in this room. My torch will soon go out.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:180, currentText: I hope this was the right answer....... As I walked the newly open corridor, suddenly the door behind me closed. Damn, I think I'm trapped in this room. My torch will soon go out..
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:181, currentText: I hope this was the right answer....... As I walked the newly open corridor, suddenly the door behind me closed. Damn, I think I'm trapped in this room. My torch will soon go out...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:182, currentText: I hope this was the right answer....... As I walked the newly open corridor, suddenly the door behind me closed. Damn, I think I'm trapped in this room. My torch will soon go out....
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:183, currentText: I hope this was the right answer....... As I walked the newly open corridor, suddenly the door behind me closed. Damn, I think I'm trapped in this room. My torch will soon go out.....
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:184, currentText: I hope this was the right answer....... As I walked the newly open corridor, suddenly the door behind me closed. Damn, I think I'm trapped in this room. My torch will soon go out......
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:185, currentText: I hope this was the right answer....... As I walked the newly open corridor, suddenly the door behind me closed. Damn, I think I'm trapped in this room. My torch will soon go out.......
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:186, currentText: I hope this was the right answer....... As I walked the newly open corridor, suddenly the door behind me closed. Damn, I think I'm trapped in this room. My torch will soon go out....... 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:187, currentText: I hope this was the right answer....... As I walked the newly open corridor, suddenly the door behind me closed. Damn, I think I'm trapped in this room. My torch will soon go out....... T
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:188, currentText: I hope this was the right answer....... As I walked the newly open corridor, suddenly the door behind me closed. Damn, I think I'm trapped in this room. My torch will soon go out....... Th
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:189, currentText: I hope this was the right answer....... As I walked the newly open corridor, suddenly the door behind me closed. Damn, I think I'm trapped in this room. My torch will soon go out....... The
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:190, currentText: I hope this was the right answer....... As I walked the newly open corridor, suddenly the door behind me closed. Damn, I think I'm trapped in this room. My torch will soon go out....... Ther
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:191, currentText: I hope this was the right answer....... As I walked the newly open corridor, suddenly the door behind me closed. Damn, I think I'm trapped in this room. My torch will soon go out....... There
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:192, currentText: I hope this was the right answer....... As I walked the newly open corridor, suddenly the door behind me closed. Damn, I think I'm trapped in this room. My torch will soon go out....... There'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:193, currentText: I hope this was the right answer....... As I walked the newly open corridor, suddenly the door behind me closed. Damn, I think I'm trapped in this room. My torch will soon go out....... There's
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:194, currentText: I hope this was the right answer....... As I walked the newly open corridor, suddenly the door behind me closed. Damn, I think I'm trapped in this room. My torch will soon go out....... There's 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+textCounter:195, currentText: I hope this was the right answer....... As I walked the newly open corridor, suddenly the door behind me closed. Damn, I think I'm trapped in this room. My torch will soon go out....... There's n
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
